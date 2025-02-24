@@ -1,6 +1,6 @@
 package ex_17_OOPS_CONCEPTS;
 
-public class Lab_149_OOPS {
+public class ATBx {
     // Attributes
     String name;
     int age;
